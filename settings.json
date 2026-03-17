@@ -1,21 +1,21 @@
 {
-  "name": "AFK Bot",
+  "name": "MODDEDSMPBot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "MODDEDSMPBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "moddedSmp2.aternos.me",
+    "port": 11528,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 100000,
     "y": 100,
-    "z": 0
+    "z": -100000
   },
   "utils": {
     "auto-auth": {
